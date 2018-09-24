@@ -1,0 +1,11 @@
+body{background: #ddd }
+
+
+.main{
+
+	width :1000px;margin: 0 auto;background: #fff;padding: 50px
+}
+
+.columns{overflow: hidden;}
+.single-column{width: 32.333%;float: left; padding-right: 1%}
+.single-onethird-column {width:49%;float: left;padding-right: 1%}

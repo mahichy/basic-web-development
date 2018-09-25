@@ -1,0 +1,21 @@
+body{font-family: 'Roboto', sans-serif; font-weight: 300; background-image: url(bd.jpg);background-attachment: fixed; }
+h1, h2, h3 :{font-family: 'Spirax', cursive;}
+
+
+.main{
+
+	width :1000px;margin: 0 auto;background: #fff;padding: 50px
+}
+
+.columns{overflow: hidden;}
+.single-column{width: 32.333%;float: left; padding-right: 1%}
+.single-onethird-column {width:49%;float: left;padding-right: 1%}
+
+.menu{background: red;text-align: center;}
+.menu ul{margin :0;padding :0; list-style: none;}
+.menu li{display : inline-block;}
+.menu li a{display-block; color: #fff;padding:10px; text-decoration: none;}
+.menu li a:hover{background: #333} 
+
+.big-icone{ font-size: 100px;color: red; }
+.big-icone:hover{ color: green }
